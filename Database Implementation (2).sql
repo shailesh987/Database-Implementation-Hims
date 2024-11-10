@@ -1,6 +1,6 @@
 /*
 														Project: Hospital Management
-														Team Member: Anwesh Praharaj
+														Team Member: Shailesh
 
 
 	A. CREATE DATABASE
